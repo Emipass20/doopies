@@ -1,0 +1,31 @@
+#email{
+  border-radius: 15px;
+  padding: 9px;
+  margin-top: 10px;
+  border: none;
+  margin-right: 10px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+}
+
+#abonne{
+  border-radius: 19px;
+  padding: 10px;
+  margin-top: 10px;
+  margin-left: -40px;
+  font-family: 'Biryani Black', sans-serif;
+  font-size: 11px;
+  background: #000;
+  color: white;
+  border: none;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+}
+
+.newsletter{
+  text-align: center;
+  padding-bottom: 4px;
+}
+
+.newsletter h3{
+  font-size: 23px;
+}
+

@@ -1,0 +1,46 @@
+.function{
+  background-color: #FF7E20;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  padding: 30px;
+}
+
+.cards{
+  display:flex;
+  justify-content: space-evenly;
+}
+
+.card{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  box-shadow: 0 15px 35px rgba(50,50,93,0.5);
+  border-radius: 30px;
+  background:white;
+  padding: 40px;
+  margin-bottom: 70px;
+  width: 200px;
+  height: 263px;
+}
+
+.card i {
+  font-size: 50px;
+  color: #FF7E20;
+}
+
+.card h3{
+  height: 50px;
+  color: #FF7E20;
+  font-size: 23px;
+}
+
+.card p {
+  width: 232px;
+  color: #FF7E20;
+  height: 50px;
+  margin-bottom: auto;
+}
+
+

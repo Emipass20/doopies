@@ -1,0 +1,70 @@
+.footer{
+  display: flex;
+  align-items: center;
+  padding-block: 64px;
+}
+
+.line{
+  display: flex;
+  gap: 39px;
+  margin-left: 39px;
+}
+
+#propos{
+  display: flex;
+  flex-direction: column;
+}
+
+#propos a:hover{
+  color: #8A2764;
+}
+
+#services{
+  display: flex;
+  flex-direction: column;
+}
+
+#services a:hover{
+  color: #FFDE00;
+}
+
+#informations{
+  display: flex;
+  flex-direction: column;
+}
+
+#informations a:hover{
+  color: #07F0FF;
+}
+
+.social{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 22px;
+}
+
+.social i {
+  font-size: 50px;
+  color: black;
+  transition: color 0.3s ease;
+}
+
+#facebook i:hover{
+  color:#1A4789;
+}
+
+#instagram i:hover{
+  color:#744FC5;
+}
+
+.social_links{
+  display: flex;
+  justify-content: space-around;
+  gap: 5px;
+}
+
+#logofin{
+  width: 119px;
+  height: auto;
+}

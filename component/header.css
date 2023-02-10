@@ -1,0 +1,49 @@
+.header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: white;
+  margin: 6px;
+}
+
+#logo{
+  width: 80px;
+  height: 80px;
+  margin-left: 8px;
+}
+
+#casquette:hover{
+  color:#FF1640;
+}
+
+#dopbox:hover{
+  color:#FF7E20;
+}
+
+#nous:hover{
+  color:#F4EB23;
+}
+
+#contact:hover{
+  color:#1200DB;
+}
+
+#connexion:hover{
+  color:#1BC9E7;
+}
+
+#panier:hover{
+  color:#30F410;
+}
+
+.ul-menu{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px;
+  gap: 40px;
+}
+
+.ul-profil{
+  gap: 40px;
+}
